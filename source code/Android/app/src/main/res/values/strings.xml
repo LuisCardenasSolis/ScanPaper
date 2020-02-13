@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ScanPaper</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">GENERAL PRINTS PERU E.I.R.L</string>
+    <string name="nav_header_subtitle">Scan APP</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Opciones</string>
+
+    <string name="menu_home">Scanear Producto</string>
+    <string name="menu_gallery">Productos Scaneados</string>
+    <string name="menu_tools">Informacion de Productos</string>
+    <string name="menu_share">Compartir</string>
+
+    <string name="scan">Scanear Codigo</string>
+    <string name="info">Mostrar informacion</string>
+    <string name="name">Nombre de Articulo</string>
+    <string name="cantidad">Cantidad Minima</string>
+    <string name="costo">Costo</string>
+    <string name="familia">Familia</string>
+
+    <string name="a">Producto</string>
+    <string name="b">Formato</string>
+
+    Mostrar informacion
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
